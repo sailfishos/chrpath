@@ -1,0 +1,18 @@
+* Sun Feb 28 2010 Anas Nashif <anas.nashif@intel.com> - 0.13
+- Spec cleanup
+
+* Tue Feb 17 2009 Yin Kangkai <kangkai.yin@intel.com> 0.13
+- Fix the URL
+
+* Tue Jan 27 2009 Anas Nashif <anas.nashif@intel.com> 0.13
+- Initial import into Moblin
+
+* Mon Feb 18 2008 Fedora Release Engineering <rel-eng@fedoraproject.org> - 0.13-3
+- Autorebuild for GCC 4.3
+
+* Sat Sep  8 2007 Ville Skyttä <ville.skytta at iki.fi> - 0.13-2
+- License: GPL+
+
+* Sun Mar 12 2006 Axel Thimm <Axel.Thimm@ATrpms.net> - 0.13-1
+- Initial build.
+

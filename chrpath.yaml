@@ -1,0 +1,14 @@
+Name: chrpath
+Summary: Modify rpath of compiled programs
+Version: 0.13
+Release: 3
+Group: Development/Tools
+License: GPL+
+URL: http://www.tux.org/pub/X-Windows/ftp.hungry.com/chrpath/
+Sources:
+    - http://www.tux.org/pub/X-Windows/ftp.hungry.com/chrpath/%{name}-%{version}.tar.gz
+Description: |
+    chrpath allows you to modify the dynamic library load path (rpath) of
+    compiled programs.  Currently, only removing and modifying the rpath
+    is supported.
+
