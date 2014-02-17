@@ -14,6 +14,7 @@ License:    GPL+
 URL:        http://www.tux.org/pub/X-Windows/ftp.hungry.com/chrpath/
 Source0:    http://www.tux.org/pub/X-Windows/ftp.hungry.com/chrpath/%{name}-%{version}.tar.gz
 Source100:  chrpath.yaml
+Patch0:     chrpath-0.13-aarch64.patch
 
 BuildRoot:  %{_tmppath}/%{name}-%{version}-build
 
@@ -27,6 +28,7 @@ is supported.
 
 %prep
 %setup -q -n %{name}-%{version}
+%patch0 -p1
 
 # >> setup
 # << setup

@@ -1,3 +1,6 @@
+* Mon Feb 17 2014 Oleg Girko <oleg.girko@jolla.com> - 0.13
+- Add aarch64 support
+
 * Sun Feb 28 2010 Anas Nashif <anas.nashif@intel.com> - 0.13
 - Spec cleanup
 
