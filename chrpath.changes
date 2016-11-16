@@ -1,3 +1,6 @@
+* Wed Nov 16 2016 Andrew Branson <andrew.branson@jollamobile.com> - 0.16
+- Update to latest upstream to fix aarch64 support. Contributes JB#36790
+
 * Mon Feb 17 2014 Oleg Girko <oleg.girko@jolla.com> - 0.13
 - Add aarch64 support
 
